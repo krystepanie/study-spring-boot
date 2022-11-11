@@ -1,0 +1,4 @@
+http://localhost:8090/music-web/artists - POST, GET, PUT, DELETE
+http://localhost:8090/music-web/artists/byName/pippo - GET
+http://localhost:8090/music-web/artists/byYear/2000 - GET
+http://localhost:8090/music-web/artists/from/2000/to/2020 - GET
