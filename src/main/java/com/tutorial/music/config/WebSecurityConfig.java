@@ -27,7 +27,8 @@ public class WebSecurityConfig {
     private static final String[] USER_PATHS = {
             "/artist/by-name",
             "/artist/by-year",
-            "/artist/by-year/from/\\d{4}/to/\\d{4}"
+            "/artist/by-year/from/\\d{4}/to/\\d{4}",
+            "/wish"
     };
 
     @Bean
